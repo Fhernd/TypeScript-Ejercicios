@@ -1,4 +1,4 @@
-// Ejercicio 16: Uso del tipo de dato incorporado Object.
+// Ejercicio 17: Uso del tipo de dato incorporado Object.
 let computador = {
     id: 1001,
     marca: 'MSi',
